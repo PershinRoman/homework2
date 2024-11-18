@@ -1,4 +1,4 @@
-ef foo():
+def foo():
     pass
 
 def func():
